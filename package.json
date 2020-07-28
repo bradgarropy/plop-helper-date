@@ -1,6 +1,6 @@
 {
     "name": "plop-helper-date",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "💧 plop helper date",
     "keywords": [
         "plop",
@@ -9,7 +9,7 @@
         "helper",
         "date"
     ],
-    "homepage": "https://www.npmjs.com/package/plop-helper-date",
+    "homepage": "https://npmjs.com/package/plop-helper-date",
     "bugs": {
         "url": "https://github.com/bradgarropy/plop-helper-date/issues"
     },
